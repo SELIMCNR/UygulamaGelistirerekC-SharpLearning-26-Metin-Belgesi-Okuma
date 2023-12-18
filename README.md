@@ -1,1 +1,1 @@
-UygulamaGelistirerekC-SharpLearning-26-Metin-Belgesi-Okuma
+UygulamaGelistirerekC-SharpLearning-27-Metin-Belgesi-Okuma
